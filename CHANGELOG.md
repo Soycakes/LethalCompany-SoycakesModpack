@@ -1,12 +1,43 @@
 # Versions
+# 1.3.0
+
+### Config changes
+    Lethal Company Enhancer
+        Set items lost on team death to be 50/50 per item
+    Skin Walker
+        Effect is enabled only for Bracken
+    More Emotes
+        Controls moved for added emotes to F4-F6
+    AEIOUCompany
+        Default volume reduced from 1 -> 0.5
+### Added mods
+    CommandHandler
+    YoutubeBoombox
+    amnsoft-EmployeeAssignments
+    Skinwalkers
+    AEIOUCompany
+    Lethal Company Enhancer
+    MoreItems
+    JumpDelayPatch
+    HDLethalCompany
+
+### Updated mods
+	LethalLib to 0.5.2
+	Lategame_Upgrades to 2.1.0
+	LethalThings to 0.5.4
+	Mimics to 1.1.1
+	More_Emotes to 1.1.0
+
 # 1.2.1
-- Brutal Company Plus have been removed for now until a bug where previous event not properly being removed is fixed
+- Brutal Company Plus has been removed for now until a bug where previous event not properly being removed is fixed
+
 ### Updated mods
     Mimics to 1.1.0 (now makes it possible to change how many mimics spawn!)
     Lethal Things to 0.5.0
 
 # 1.2.0
 - Added config changes to balance few of the mods
+
 ### Config changes
     Lategame Upgrades
         Most of the prices have been increased and movement related effects nerfed.
@@ -35,14 +66,18 @@
     Brutal Company Plus to 3.1.0
 
 # 1.1.0
-- Added Brutal Company Plus
-- Added Lock Doors Mod
-- Added Mimics
-- Updated Lethal Things to 0.4.0
+
+### Added mods
+	Brutal Company Plus
+	Lock Doors Mod
+	Mimics
+	Lethal Things to 0.4.0
 
 # 1.0.1
-- Updated Lategame Upgrades to 2.0.0
-- Updated Helmet_Cameras to 2.1.3
+
+### Updated mods
+	Lategame Upgrades to 2.0.0
+	Helmet_Cameras to 2.1.3
 
 # 1.0.0
 - Released!

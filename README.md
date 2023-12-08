@@ -1,11 +1,10 @@
 # Soycake's Lethal Company modpack
 ## _For the company_
-
 This modpack focuses on adding few QoL & content based mods to spice up mid/late game of Lethal Company.
 Comes with config edits to balance few of the mods.
 
 Thunderstore Link : https://thunderstore.io/c/lethal-company/p/Soycake/SoycakesModpack/
-Github Link : soon
+Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 
 ## Content based mods
 - Lategame Upgrades : Adds new mid/late game items to shop at high prices
@@ -18,6 +17,9 @@ Github Link : soon
 - Lock Doors : Allows keys to lock any doors by consuming them. (This can be done to trap monsters within an area)
 - Always Hear Active Walkies : Allows players nearby another player with active Walkies (or dropped active Walkies) to hear them
 - Let Me Look Down : Let's You Look Down
+- Employee Assignments : Adds assignments to employees to complete on moons for $$$
+- Skin Walker : Monsters can use player's voice (Currently set only for Bracken)
+- Lethal Company Enhancer : Adds configs for various game mechanic changes (Currently using config changes for item losing to be 50/50 on team wipe)
 
 ## QoL mods
 - Late Company : Join late while ship is in orbit
@@ -30,11 +32,16 @@ Github Link : soon
 - EladsHUD : Changes player hud to give more numeric info on energy, stamina, and health
 - Hide Chat : Hides chat if it is not being used for a while
 - FPSSpectate : Allows FPS spectating while dead. Can be toggled using 'V'
+- More Items : Increases items saved on ships from 45 -> 999
+- Jump Delay Patch : Reduces jump delay
+- HDLethalCompany : Allows changing of various quality settings
 
 ## meme mods
 - BoomBoxNoPower : self explanatory
 - More Emotes : Adds 1 new emote (config added to move control from 3 to F3)
 - Push Company : Push your friends using 'E'
+- YoutubeBoombox : Changes boombox to use youtube links to play sounds
+- AEIOUCompany : John Madden
 
 (and various library API mods)
 
