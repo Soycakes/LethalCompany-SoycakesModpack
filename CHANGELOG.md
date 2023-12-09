@@ -1,4 +1,14 @@
 # Versions
+# 1.3.1
+- Lethal Company Enhancer has been removed for now, (I believe) causing lobby to get stuck after a wipe
+
+### Updated mods
+    YoutubeBoombox to 1.3.0
+    HDLethalCompany to 1.5.3
+    More_Emotes to 1.1.1
+    LethalLib to 0.6.0
+    LethalThings to 0.6.0
+
 # 1.3.0
 
 ### Config changes

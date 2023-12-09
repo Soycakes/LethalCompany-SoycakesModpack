@@ -19,7 +19,7 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 - Let Me Look Down : Let's You Look Down
 - Employee Assignments : Adds assignments to employees to complete on moons for $$$
 - Skin Walker : Monsters can use player's voice (Currently set only for Bracken)
-- Lethal Company Enhancer : Adds configs for various game mechanic changes (Currently using config changes for item losing to be 50/50 on team wipe)
+- ~~Lethal Company Enhancer : Adds configs for various game mechanic changes (Currently using config changes for item losing to be 50/50 on team wipe)~~ Currently removed until bug is fixed
 
 ## QoL mods
 - Late Company : Join late while ship is in orbit
