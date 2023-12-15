@@ -10,6 +10,8 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 - Lategame Upgrades : Adds new mid/late game items to shop at high prices
 - LethalThings : Adds 6 custom scraps, 4 new items, 2 decors, and 1 new enemy
 - Mimic : Adds 1 new enemy
+- MaskedEnemyRework : Reworks Masked Enemies and adds a new Zombie Apocalypse event (set at 8%)
+- HookGun : HOOK GUN
 
 ## Mechanic Add/Changing mods
 - ~~Brutal Company Plus : Adds random CBT events (config changed to disable few of the more "unfair" ones)~~ Currently removed until bug is fixed
@@ -20,6 +22,9 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 - Employee Assignments : Adds assignments to employees to complete on moons for $$$
 - Skin Walker : Monsters can use player's voice (Currently set only for Bracken)
 - ~~Lethal Company Enhancer : Adds configs for various game mechanic changes (Currently using config changes for item losing to be 50/50 on team wipe)~~ Currently removed until bug is fixed
+- TZPReworkedHealing : Adds healing to TZP
+- Permanent Ladders : No more annoying beeps
+- BuyableShotgunShells : Self Explanatory, 20 bucks a pop
 
 ## QoL mods
 - Late Company : Join late while ship is in orbit
@@ -38,10 +43,11 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 
 ## meme mods
 - BoomBoxNoPower : self explanatory
-- More Emotes : Adds 1 new emote (config added to move control from 3 to F3)
+- ~~More Emotes : Adds 6 new emote (config added to move control from 3-8 to F3-F8)~~ Currently removed until compatibility with Lategame Upgrades is fixed
 - Push Company : Push your friends using 'E'
 - YoutubeBoombox : Changes boombox to use youtube links to play sounds
 - AEIOUCompany : John Madden
+- MirrorDecor : Gaze upon yourself
 
 (and various library API mods)
 
