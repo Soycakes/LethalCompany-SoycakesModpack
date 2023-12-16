@@ -10,13 +10,13 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 - Lategame Upgrades : Adds new mid/late game items to shop at high prices
 - LethalThings : Adds 6 custom scraps, 4 new items, 2 decors, and 1 new enemy
 - Mimic : Adds 1 new enemy
-- MaskedEnemyRework : Reworks Masked Enemies and adds a new Zombie Apocalypse event (set at 8%)
+- ~~MaskedEnemyRework : Reworks Masked Enemies and adds a new Zombie Apocalypse event (set at 8%)~~ Current removed until bug is fixed
 - HookGun : HOOK GUN
 
 ## Mechanic Add/Changing mods
 - ~~Brutal Company Plus : Adds random CBT events (config changed to disable few of the more "unfair" ones)~~ Currently removed until bug is fixed
 - WeatherMultiplier : Increases values of items found in moons with weather (config changed to lower prices by a considerable amount)
-- Lock Doors : Allows keys to lock any doors by consuming them. (This can be done to trap monsters within an area)
+- ~~Lock Doors : Allows keys to lock any doors by consuming them. (This can be done to trap monsters within an area)~~ Removed for now
 - Always Hear Active Walkies : Allows players nearby another player with active Walkies (or dropped active Walkies) to hear them
 - Let Me Look Down : Let's You Look Down
 - Employee Assignments : Adds assignments to employees to complete on moons for $$$

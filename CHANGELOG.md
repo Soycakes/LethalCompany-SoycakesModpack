@@ -1,4 +1,17 @@
 # Versions
+# 1.4.1
+<ul>
+    <li> ACTUALLY removed Lock Doors Mod this time </li>
+    <li> Masked Enemy Rework has been removed for now, bug with just a ton of them spawning... </li>
+    <li> For anyone using Hook guns, don't use them to cross gaps inside the facility, it's a little buggy still if you use it inside, try to use it outside only for now. </li>
+    <li> Note that youtube boombox mod (and few other mods) is not working on v45 at the moment, will just leave it on for now </li>
+</ul>
+
+### Updated mods
+    LethalLib to 0.6.3
+    Mimics to 2.2.0
+    YoutubeBoombox to 1.5.0
+
 # 1.4.0 (v45 Compatible!)
 <ul>
     <li> Lock Doors Mod has been removed, felt it was almost never used and pretty sure there's a bug with it. </li>
