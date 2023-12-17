@@ -1,6 +1,6 @@
 {
     "name": "SoycakesModpack",
-    "version_number": "1.4.1",
+    "version_number": "1.4.2",
     "website_url": "",
     "description": "This modpack focuses on adding many QoL & content based mods to spice up existing gameplay. Comes with config edits to balance some mods! More info on Website!",
     "dependencies": [
@@ -29,16 +29,16 @@
         "MassiveNewCoilers-FixCentipedeLag-2023.12.7",
         "steven4547466-CommandHandler-1.0.0",
         "steven4547466-YoutubeBoombox-1.5.0",
-        "amnsoft-EmployeeAssignments-1.0.5",
+        "amnsoft-EmployeeAssignments-1.0.6",
         "RugbugRedfern-Skinwalkers-2.0.1",
         "Bibendi-AEIOUCompany-1.3.4",
         "Drakorle-MoreItems-1.0.1",
         "monkes_mods-JumpDelayPatch-1.0.1",
-        "Sligili-HDLethalCompany-1.5.5",
+        "Sligili-HDLethalCompany-1.5.6",
         "MegaPiggy-BuyableShotgunShells-1.0.1",
-        "quackandcheese-MirrorDecor-1.1.5",
         "Silvercore-Permanent_Ladder-1.0.1",
         "Hotoni-TZPReworkedHealing-1.2.0",
-        "BLKNeko-HookGun-1.1.2"
+        "BLKNeko-HookGun-1.1.2",
+        "Sligili-More_Emotes-1.2.2"
     ]
 }

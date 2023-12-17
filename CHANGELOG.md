@@ -1,4 +1,15 @@
 # Versions
+# 1.4.2
+<ul>
+    <li> Mirror Decor mod has been removed for now, causing Nameplate disappearing issues in v45 </li>
+    <li> More Emotes mod has been re-enabled as compatability issue seems to have been fixed! </li>
+</ul>
+
+### Updated mods
+    EmployeeAssignments to 1.0.6
+    HDLethalCompany to 1.5.6
+    More_Emotes-1.2.2
+
 # 1.4.1
 <ul>
     <li> ACTUALLY removed Lock Doors Mod this time </li>

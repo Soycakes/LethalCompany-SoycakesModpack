@@ -43,11 +43,11 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 
 ## meme mods
 - BoomBoxNoPower : self explanatory
-- ~~More Emotes : Adds 6 new emote (config added to move control from 3-8 to F3-F8)~~ Currently removed until compatibility with Lategame Upgrades is fixed
+- More Emotes : Adds 6 new emote (config added to move control from 3-8 to F3-F8), Emote wheel accessed via V key.
 - Push Company : Push your friends using 'E'
 - YoutubeBoombox : Changes boombox to use youtube links to play sounds
 - AEIOUCompany : John Madden
-- MirrorDecor : Gaze upon yourself
+- ~~MirrorDecor : Gaze upon yourself~~ Currently removed until bug is fixed
 
 (and various library API mods)
 
