@@ -10,7 +10,7 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 - Lategame Upgrades : Adds new mid/late game items to shop at high prices
 - LethalThings : Adds 6 custom scraps, 4 new items, 2 decors, and 1 new enemy
 - Mimic : Adds 1 new enemy
-- ~~MaskedEnemyRework : Reworks Masked Enemies and adds a new Zombie Apocalypse event (set at 8%)~~ Current removed until bug is fixed
+- MaskedEnemyRework : Reworks Masked Enemies by removing Mask & Arm animation and adds a new Zombie Apocalypse event (set at 8%)
 - HookGun : HOOK GUN
 
 ## Mechanic Add/Changing mods
@@ -21,10 +21,11 @@ Github Link : https://github.com/Soycakes/LethalCompany-SoycakesModpack
 - Let Me Look Down : Let's You Look Down
 - Employee Assignments : Adds assignments to employees to complete on moons for $$$
 - Skin Walker : Monsters can use player's voice (Currently set only for Bracken)
-- ~~Lethal Company Enhancer : Adds configs for various game mechanic changes (Currently using config changes for item losing to be 50/50 on team wipe)~~ Currently removed until bug is fixed
+- Lethal Company Enhancer : Adds configs for various game mechanic changes (Currently using config changes for item losing to be 50/50 on team wipe)
 - TZPReworkedHealing : Adds healing to TZP
 - Permanent Ladders : No more annoying beeps
 - BuyableShotgunShells : Self Explanatory, 20 bucks a pop
+- Cabinet Item Storage : Adds functionality to Cabinet by allowing it to store multiple of same type of item (good for cleanly storing tools)
 
 ## QoL mods
 - Late Company : Join late while ship is in orbit

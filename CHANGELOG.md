@@ -1,4 +1,45 @@
 # Versions
+# 1.5.0
+<ul>
+    <li> Masked Enemy Rework has been re-enabled as bug was fixed with wrong spawn rate previously </li>
+    <li> Lethal Company Enhancer has been re-enabled, with 50/50 save items settings back </li>
+</ul>
+
+### Config changes
+    Lategame Upgrades
+        Overall overhaul on prices for upgrades
+            Almost all upgrades have had their cost reduced & strength reduced, making them more affordable in runs but not as powerful
+    Hookgun
+        Price has been increased from 120 -> 240
+    Masked Enemy Rework
+        Removed Mask from Mask enemy skin
+        Removed Arm animation from Mask enemy
+        Max # of mask spawn on level 3 -> 2
+    Lethal Things
+        Utility belt price has been reduced from 290 -> 140
+    Employee Assignments
+        Min tasks assigned 1 -> 2 players
+        Max tasks assigned 10 -> 6 players
+
+### Updated mods
+    EmployeeAssignments to 1.0.8
+    FlashlightToggle to 1.5.0
+    AlwaysHearActiveWalkies to 1.4.3
+    Mimics to 2.3.0
+    WeatherMultipliers to 1.1.0
+    LethalLib to 0.9.0
+    LethalThings to 0.8.8
+    Lategame_Upgrades to 2.8.5
+    LateCompany to 1.0.7
+    LC_API to 3.2.2
+    TZPReworkedHealing to 1.3.0
+    HookGun to 1.3.4
+
+### Added mods
+    Cabinet_Item_Storage
+    Lethal_Company_Enhancer
+    MaskedEnemyOverhaul
+
 # 1.4.2
 <ul>
     <li> Mirror Decor mod has been removed for now, causing Nameplate disappearing issues in v45 </li>
